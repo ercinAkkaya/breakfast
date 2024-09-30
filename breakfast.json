@@ -1,0 +1,93 @@
+[
+  {
+    "isim": "Omlet",
+    "kalori": "154 Kalori",
+    "karbonhidrat": "1.1 gram",
+    "protein": "10.4 gram",
+    "yag": "11.0 gram"
+  },
+  {
+    "isim": "Sahanda Yumurta",
+    "kalori": "143 Kalori",
+    "karbonhidrat": "0.6 gram",
+    "protein": "12.6 gram",
+    "yag": "9.9 gram"
+  },
+  {
+    "isim": "Peynir Tabağı",
+    "kalori": "350 Kalori",
+    "karbonhidrat": "2.0 gram",
+    "protein": "25.0 gram",
+    "yag": "28.0 gram"
+  },
+  {
+    "isim": "Zeytin",
+    "kalori": "115 Kalori",
+    "karbonhidrat": "6.0 gram",
+    "protein": "0.8 gram",
+    "yag": "10.7 gram"
+  },
+  {
+    "isim": "Reçel",
+    "kalori": "250 Kalori",
+    "karbonhidrat": "64 gram",
+    "protein": "0.3 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Simit",
+    "kalori": "290 Kalori",
+    "karbonhidrat": "56 gram",
+    "protein": "9 gram",
+    "yag": "6 gram"
+  },
+  {
+    "isim": "Kahvaltılık Mısır Gevreği",
+    "kalori": "375 Kalori",
+    "karbonhidrat": "84 gram",
+    "protein": "7 gram",
+    "yag": "1 gram"
+  },
+  {
+    "isim": "Yoğurt",
+    "kalori": "59 Kalori",
+    "karbonhidrat": "4.7 gram",
+    "protein": "10 gram",
+    "yag": "3 gram"
+  },
+  {
+    "isim": "Pankek",
+    "kalori": "227 Kalori",
+    "karbonhidrat": "36 gram",
+    "protein": "6.1 gram",
+    "yag": "8 gram"
+  },
+  {
+    "isim": "Börek",
+    "kalori": "294 Kalori",
+    "karbonhidrat": "36 gram",
+    "protein": "9 gram",
+    "yag": "15 gram"
+  },
+  {
+    "isim": "Kahvaltılık Sosis",
+    "kalori": "300 Kalori",
+    "karbonhidrat": "2 gram",
+    "protein": "12 gram",
+    "yag": "27 gram"
+  },
+  {
+    "isim": "Granola",
+    "kalori": "489 Kalori",
+    "karbonhidrat": "70 gram",
+    "protein": "10 gram",
+    "yag": "20 gram"
+  },
+  {
+    "isim": "Çay/Kahve (Sade)",
+    "kalori": "1 Kalori",
+    "karbonhidrat": "0 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  }
+]
